@@ -1,0 +1,13 @@
+{
+  "name": "htmx-go-crud-app",
+  "type": "module",
+  "scripts": {
+    "dev": "vite build --watch"
+  },
+  "devDependencies": {
+    "vite": "^6.0.6"
+  },
+  "dependencies": {
+    "htmx.org": "^1.9.12"
+  }
+}
